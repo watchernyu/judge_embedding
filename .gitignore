@@ -3,7 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# don't track data-related files
 data/
+processed_data/
 
 # C extensions
 *.so
