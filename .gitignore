@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# don't track trials
+trials/*
+
 # don't track commands
 jupyter_notebook_command.sh
 
